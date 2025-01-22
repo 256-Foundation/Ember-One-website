@@ -1,6 +1,8 @@
 # Ember One
 
-<img align="center" width="750" src="assets/Ember-One-Lander.jpg">
+<p align="center">
+<img width="500" src="assets/Ember-One-Lander.jpg">
+</p>
 
 ## Scope:
 One Project Manager position and up to two engineer positions to fulfill the mission of The 256 Foundation, “Dismantle the proprietary mining empire to make Bitcoin and freedom tech accessible to anyone”. This grant proposal aims to secure funding for:
