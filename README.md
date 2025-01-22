@@ -1,5 +1,3 @@
-# Ember One
-
 <p align="center">
 <img width="500" src="assets/Ember-One-Lander.jpg">
 </p>
