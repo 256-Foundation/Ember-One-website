@@ -1,3 +1,6 @@
+## Motivation
+There are no open source high hashrate miners and we set out to change that with this project. The Bitcoin mining industry has been dominated by Bitmain and their closed proprietary hardware and Bitcoiners by and large have accepted this despite the open nature of the protocol and the applications built on it. Up until the Bitaxe project, there were no open source options at all. This project takes what the Bitaxe started to the next level, bringing the total Wattage to ~100W. A small but important step in the direction of open-source options. The Ember One project is only the first iteration of many that will evolve over time increasing in power and hashrate. Ember One is creating a standardized hashboard form factor which will have ASIC chips from different manufacturers in each series. Components for the Ember One have been chosen to give end users the most flexibility and ease of use. For example, the input voltage ranges from 12-24 vdc and the control board communicates via USB to the hashboards. Users will have the options of running one hashboard or several hashboards, they can choose which ASIC chips they want, and all the pieces will be interchangeable.  
+
 <p align="center">
 <img width="500" src="assets/Ember-One-Lander.jpg">
 </p>
