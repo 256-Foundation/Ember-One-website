@@ -20,6 +20,12 @@ Check the GitHub repo linked below for the latest release. Ember One 00 is built
 
 [Ember One Serial USB Firmware](https://github.com/256-Foundation/emberone-usbserial-fw)
 
+Firmware support coming soon in [Mujina Firmware](https://mujina.org)
+
+Initial testing Ember One firmware support (hacked into) [PiAxe/Pyminer fork](https://github.com/skot/emberone-miner/tree/emberone-BM1362-support)
+
+Separate USB connected control board required, support coming soon in [Libre Board](https://libreboard.org)
+
 [Emebr One Schematic Review Video](https://bitcointv.com/w/59cB1SEHPYZCdumE2MFnqF)
 
 
