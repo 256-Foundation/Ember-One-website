@@ -13,12 +13,10 @@ The Ember One Standardized Features include:
 
 <br>
 
-Check the GitHub repo linked above for the latest release. Ember One 00 is built with the Bitmain BM1362 ASICs. The current roadmap for future Ember One versions includes designs for an Intel BZM2 ASIC version, an Auradine ASIC version, and a Proto Mining ASIC version.
+Check the GitHub repo linked below for the latest release. Ember One 00 is built with the Bitmain BM1362 ASICs. The current roadmap for future Ember One versions includes designs for an Intel BZM2 ASIC version, an Auradine ASIC version, and a Proto Mining ASIC version.
 
 ## Resources
 [Ember One 00 PCB Github Repo](https://github.com/256-Foundation/emberone00-pcb/tree/master)
-
-[Ember One Bring Up Test Scripts](https://github.com/256-Foundation/emberone-test-scripts)
 
 [Ember One Serial USB Firmware](https://github.com/256-Foundation/emberone-usbserial-fw)
 
