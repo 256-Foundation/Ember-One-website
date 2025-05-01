@@ -1,44 +1,37 @@
-## An Open Hashboard
-An open-source standardized hashboard that supports different types of ASICs. The Bitcoin mining industry has been dominated by Bitmain and their closed proprietary hardware and Bitcoiners by and large have accepted this despite the open nature of the protocol and the applications built on it. Up until the Bitaxe project, there were no open source options at all. This project takes what the Bitaxe started to the next level, bringing the total Wattage to ~100W. A small but important step in the direction of open-source options. The Ember One grant is only the first iteration of many that will evolve over time increasing in power and hashrate. Ember One is creating a standardized hashboard form factor which will have ASIC chips from different manufacturers in each series. Components for the Ember One have been chosen to give end users the most flexibility and ease of use. For example, the input voltage ranges from 12-24 vdc and the control board communicates via USB to the hashboards. Users will have the options of running one hashboard or several hashboards, they can choose which ASIC chips they want, and all the pieces will be interchangeable.  
+## Open Hashboard
+The Ember One Standardized Features include:
 
-<p align="center">
-<img width="500" src="assets/Ember-One-Lander.jpg">
-</p>
-
-If this sounds like a grant you want to support, then send The 256 Foundaton a tax deductible donation [here](https://pay.zaprite.com/pl_ZRWeSGjRWG)! Or use The 256 Foundation [PayNym](https://paynym.rs/+appetizingadministration90)!
-
-## Scope:
-One Project Manager position and one engineer positions to fulfill the mission of The 256 Foundation, “Dismantle the proprietary mining empire to make Bitcoin and freedom tech accessible to anyone”. This grant proposal aims to secure funding for:
-
-* This project was officially launched in November 2024.
-* One project manager to oversee and ensure mission adherence, timeliness, and execution. 
-* One engineer to develop the Ember One hashboard.
-* Ember One technical details: a modular ~100W 2-4 Terahash open-source Bitcoin miner hashboard built with the Bitmain S19 J-Pro series ASIC chips including hardware component selection, PCB design, and thermal design. 
-* Supporting documentation with hashboard interface specification. 
-* This project is fully open-source CERN-OHL-S licensed.
-* Excluded from this proposal are the firmware architecture & implementation, enclosure design, manufacturing support, sales, distribution, marketing, and customer technical support.
-
-## Deliverables:
-The deliverables after six months will be a validated ~100W standardized hashboard.
-
-* Built with the Bitmain BM1362 ASICs
 * Power Consumption of ~100W
 * Input voltage range 12-24vdc
 * USB-C data communication
 * on-board temperature sensors
 * 125mm x 125mm form factor
- 
 
-## Timeline:
-The timeline for this grant proposal is six months with the opportunity to extend the grant at the conclusion of each six month period, pending negotiations.
+<p align="center">
+<img width="500" src="assets/EmberOne00v3.jpg">
+</p>
 
-## Materials:
-Materials for this project’s prototype are included in the budget. Potential materials for the project may include but are not limited to ASIC chips, miscellaneous components, and various tools or software.
+<br>
+
+Check the GitHub repo linked above for the latest release. Ember One 00 is built with the Bitmain BM1362 ASICs. The current roadmap for future Ember One versions includes designs for an Intel BZM2 ASIC version, an Auradine ASIC version, and a Proto Mining ASIC version.
+
+## Resources
+[Ember One 00 PCB Github Repo](https://github.com/256-Foundation/emberone00-pcb/tree/master)
+
+[Ember One Bring Up Test Scripts](https://github.com/256-Foundation/emberone-test-scripts)
+
+[Ember One Serial USB Firmware](https://github.com/256-Foundation/emberone-usbserial-fw)
+
+
+## Motivation
+The Bitcoin mining industry has been dominated by Bitmain and their closed proprietary hardware and many Bitcoiners have accepted this despite the open nature of the protocol and the applications built on it. Up until the Bitaxe project, there were no open source options at all. Ember One takes what the Bitaxe started to the next level, bringing the total Wattage to ~100W. A small but important step in the direction of open-source options. Each six-month Ember One grant cycle will bring a new version that supports a different ASIC chip but all version will fit the same standardized form factor. Components for the Ember One have been chosen to give end users the most flexibility and ease of use. For example, the input voltage ranges from 12-24 vdc and the control board communicates via USB to the hashboards. Users will have the options of running one hashboard or several hashboards, they can choose which ASIC chips they want, and all the pieces will be interchangeable.
+
+If this sounds like a grant you want to support, then send The 256 Foundaton a tax deductible donation [here](https://pay.zaprite.com/pl_ZRWeSGjRWG)! Or use The 256 Foundation [PayNym](https://paynym.rs/+appetizingadministration90)!
+
+## Community Support
+For help with Ember One, please use [The 256 Foundation public forum](https://t.me/the256foundation) on Telegram.
 
 ## Team Members:
 Lead Engineer = [@skot9000](https://x.com/skot9000)
 
 Project Manager = [@econoalchemist](https://x.com/econoalchemist)
-
-## Budget:
-For security reasons, exact dollar amounts are kept confidential. This project budget covers fair-market compensation for one project manager as well as the materials, travel expenses, and living expenses for one engineer for six months. Funds are disbursed monthly in six equal amounts. Within 30-days prior to the expiration of this proposal, a renewal opportunity will open and be subject to review and negotiation. 
