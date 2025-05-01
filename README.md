@@ -20,6 +20,8 @@ Check the GitHub repo linked below for the latest release. Ember One 00 is built
 
 [Ember One Serial USB Firmware](https://github.com/256-Foundation/emberone-usbserial-fw)
 
+[Emebr One Schematic Review Video](https://bitcointv.com/w/59cB1SEHPYZCdumE2MFnqF)
+
 
 ## Motivation
 The Bitcoin mining industry has been dominated by Bitmain and their closed proprietary hardware and many Bitcoiners have accepted this despite the open nature of the protocol and the applications built on it. Up until the Bitaxe project, there were no open source options at all. Ember One takes what the Bitaxe started to the next level, bringing the total Wattage to ~100W. A small but important step in the direction of open-source options. Each six-month Ember One grant cycle will bring a new version that supports a different ASIC chip but all version will fit the same standardized form factor. Components for the Ember One have been chosen to give end users the most flexibility and ease of use. For example, the input voltage ranges from 12-24 vdc and the control board communicates via USB to the hashboards. Users will have the options of running one hashboard or several hashboards, they can choose which ASIC chips they want, and all the pieces will be interchangeable.
