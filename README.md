@@ -1,5 +1,5 @@
 ## Open Hashboard
-The Ember One Standardized Features include:
+The Ember One is an [open-source](https://opensource.org/license/cern-ohl-s) Bitcoin mining hashboard, standardized Features include:
 
 * Power Consumption of ~100W
 * Input voltage range 12-24vdc
